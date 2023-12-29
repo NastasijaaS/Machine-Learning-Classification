@@ -1,1 +1,1 @@
-"Based Occupancy Estimation Using Multivariate Sensor Nodes" 
+Based occupancy estimation using multivariate sensor nodes
